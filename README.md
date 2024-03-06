@@ -6,6 +6,6 @@
 <img src="https://github.com/SLAriosi/svgTools/blob/main/vsCode.png" width="40" height="40" />
 </span>
 
-## Timer Pomodoro
+## IMC Calculator
 
-<img src="https://github.com/SLAriosi/focusTimerPomodoro/blob/main/Temporizador.png"/>
+<img src="https://github.com/SLAriosi/calculateIMC/blob/main/calculatorIMC.png"/>
